@@ -33,7 +33,7 @@ A robust RESTful API built with Laravel for a mobile todo application with full 
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/laravel-todo-api.git
+   git clone https://github.com/eddy3018/laravel-todo-api.git
    cd laravel-todo-api
    ```
 
